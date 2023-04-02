@@ -16,4 +16,6 @@
 
 Моя статистика:  
 
-![ArtemSedrakyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemSedrakyan&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)           ![ArtemSedrakyan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemSedrakyan&layout=compact&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![ArtemSedrakyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemSedrakyan&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)  
+
+![ArtemSedrakyan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemSedrakyan&layout=compact&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
